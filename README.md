@@ -1,5 +1,5 @@
 # Movie WRLD
-A responsive reactjs application made with help of tmdb-api.
+Movie WRLD is a responsive React app created with the help of the TMDB API and hosted on Netlify.
 
 https://user-images.githubusercontent.com/76790227/147968090-5df971ae-0e8e-404c-bfaa-835ca98b9f2e.mp4
 
@@ -7,15 +7,15 @@ https://user-images.githubusercontent.com/76790227/147968090-5df971ae-0e8e-404c-
 <a href='https://moviewrld.netlify.app/' target="_blank">Movie WRLD</a>
 
 ## Features
---> List popular movies
+--> List of popular movies on the homepage
 
---> Search movies by title
+--> Searching movies by title is available
 
---> View detail movie info including poster, plot of the movie, rating, budget, revenue, cast 
+--> Clicking on any poster will redirect you to the details page, which displays the poster, plot of the movie, rating, budget, revenue, and cast.
 
---> Login with TMDB id by clicking on TMDB logo in header
+--> By clicking on the TMDB logo in the header, you can log in with your TMDB ID
 
---> While logged in you can rate the movie
+--> While logged in, you can rate any movie out of 10.
 
 ## Installation
 
